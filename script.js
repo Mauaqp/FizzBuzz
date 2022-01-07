@@ -16,3 +16,10 @@ function fizzBuzz (limite){
 }
 
 fizzBuzz (100);
+
+// Another way
+/*
+if ( (i % 15 === 0)){
+        console.log("FizzBuzz")
+}
+*/
